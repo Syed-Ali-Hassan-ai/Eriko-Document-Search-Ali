@@ -41,7 +41,7 @@ pip install streamlit PyPDF2 langchain langchain-community faiss-cpu
 3. Run the Streamlit app:
 
    ```bash
-   streamlit run your_script_name.py
+   streamlit app.py
    ```
 
 4. Upload one or more PDF files in the sidebar.
